@@ -1,9 +1,15 @@
 [tool.poetry]
 name = "no_blocking_io"
-version = "0.0.2"
+version = "0.0.2b"
+license = "MIT"
 description = "Simple package with just one decorator that wraps your blocking functions with asyncio.to_thread"
 authors = ["howaitoreivun <72914371+howaitoreivun@users.noreply.github.com>"]
-license = "MIT"
+homepage = "https://github.com/howaitoreivun/no_blocking_io"
+repository = "https://github.com/howaitoreivun/no_blocking_io"
+include = [
+    "LICENSE",
+    "README.md",
+]
 
 [tool.poetry.dependencies]
 python = "^3.9"
