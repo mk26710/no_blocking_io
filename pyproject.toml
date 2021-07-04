@@ -4,9 +4,9 @@ version = "0.0.3"
 license = "MIT"
 readme = "README.md"
 description = "Simple package with just one decorator that wraps your blocking functions with asyncio.to_thread"
-authors = ["howaitoreivun <72914371+howaitoreivun@users.noreply.github.com>"]
-homepage = "https://github.com/howaitoreivun/no_blocking_io"
-repository = "https://github.com/howaitoreivun/no_blocking_io"
+authors = ["snezhniy <72914371+snezhniy@users.noreply.github.com>"]
+homepage = "https://github.com/snezhniy/no_blocking_io"
+repository = "https://github.com/snezhniy/no_blocking_io"
 include = [
     "LICENSE",
     "README.md",
